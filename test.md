@@ -32,7 +32,7 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-![](test_files/figure-gfm/pressure-1.png)<!-- -->
+![](test_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
